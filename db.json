@@ -3,17 +3,20 @@
     {
       "id": 1,
       "name": "Walk the dog",
-      "complete": false
+      "complete": false,
+      "type": "task"
     },
     {
       "id": 2,
-      "name": "Clean my room",
-      "complete": false
+      "name": "Clean the house",
+      "complete": false,
+      "type": "task"
     },
     {
       "id": 3,
-      "name": "Wash the car",
-      "complete": false
+      "name": "Meeting with Frank @ 1pm",
+      "complete": false,
+      "type": "event"
     }
   ]
 }
