@@ -4,6 +4,16 @@
       "id": 1,
       "name": "Walk the dog",
       "complete": false
+    },
+    {
+      "id": 1,
+      "name": "Clean my room",
+      "complete": false
+    },
+    {
+      "id": 1,
+      "name": "Wash the car",
+      "complete": false
     }
   ]
 }
